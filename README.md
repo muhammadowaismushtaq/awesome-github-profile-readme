@@ -93,6 +93,7 @@
 - [kylepls](https://github.com/kylepls/kylepls)
 - [Aaron Liu](https://github.com/HFO4/HFO4)
 - [marcizhu](https://github.com/marcizhu/marcizhu)
+- [Muhammad Owais Mushtaq](https://github.com/muhammadowaismushtaq)
 
 #### Code Mode 👨🏽‍💻
 - [Thaiane Braga](https://github.com/Thaiane/Thaiane)
@@ -102,6 +103,7 @@
 - [Marton](https://github.com/martonlederer/martonlederer)
 - [Redowan Delowar](https://github.com/rednafi/rednafi)
 - [Zhenye Na](https://github.com/Zhenye-Na/Zhenye-Na)
+- [Muhammad Owais Mushtaq](https://github.com/muhammadowaismushtaq)
 
 #### Dynamic Realtime 💫
 - [Kirill Feschenko](https://github.com/xcaq/xcaq)
@@ -120,6 +122,7 @@
 - [Dani Akash](https://github.com/daniakash/daniakash)
 - [Rahul Jha](https://github.com/rahul-jha98/rahul-jha98)
 - [Taehyun Hwang](https://github.com/HwangTaehyun/HwangTaehyun)
+- [Muhammad Owais Mushtaq](https://github.com/muhammadowaismushtaq)
 
 #### A Little Bit of Everything 😃
 - [Raymond Li](https://github.com/Raymo111/Raymo111)
@@ -195,6 +198,7 @@
 - [edisonlee55](https://github.com/edisonlee55/edisonlee55)
 - [Ashutosh](https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX)
 - [Yukii](https://github.com/PrincessAkira/PrincessAkira)
+- [Muhammad Owais Mushtaq](https://github.com/muhammadowaismushtaq)
 
 #### Minimalistic ✨
 - [Caneco](https://github.com/caneco/)
@@ -217,6 +221,7 @@
 - [TallGuyJenks](https://github.com/tallguyjenks/tallguyjenks)
 - [Stefanie Grunwald](https://github.com/moertel/moertel)
 - [Abdul Khaliq](https://github.com/kha7iq/kha7iq)
+- [Muhammad Owais Mushtaq](https://github.com/muhammadowaismushtaq)
 
 #### GIFS 👻
 - [Pouya Saadeghi](https://github.com/saadeghi/saadeghi)
@@ -239,6 +244,7 @@
 - [Shahriar Shafin](https://github.com/ShahriarShafin/ShahriarShafin)
 - [Somnath Paul](https://github.com/SP-XD/SP-XD)
 - [Ksenia Morozova](https://github.com/kmoroz/kmoroz)
+- [Muhammad Owais Mushtaq](https://github.com/muhammadowaismushtaq)
 
 #### Just Images 🎭
 - [Zack Krida](https://github.com/zackkrida/zackkrida)
@@ -271,10 +277,12 @@
 - [Thomas George Thomas](https://github.com/Thomas-George-T/Thomas-George-T)
 - [Derek Nguyen](https://github.com/dereknguyen269/dereknguyen269)
 - [Valentin Briand](https://github.com/vbriand/vbriand)
+- [Muhammad Owais Mushtaq](https://github.com/muhammadowaismushtaq)
 
 #### Retro 😎
 - [Livio Brunner](https://github.com/BrunnerLivio/BrunnerLivio)
 - [Christian Petersen](https://github.com/fnky/fnky)
+- [Muhammad Owais Mushtaq](https://github.com/muhammadowaismushtaq)
 
 ## Tools
 - [Todoist Stats in Readme](https://github.com/abhisheknaiidu/todoist-readme) - Daily Todoist Stats on your Profile Readme
@@ -318,6 +326,7 @@
 - [YouTube Channel Stats](https://github.com/DenverCoder1/github-readme-youtube-stats) - 📺 Display number of subscribers on YouTube and/or your channel's view count as a badge
 - [Current Book Status from GoodReads](https://github.com/theFr1nge/goodreads-readme) - Add a card of the current book you are reading that automatically syncs with GoodReads to display your progress.
 - [Readme Typing SVG](https://github.com/DenverCoder1/readme-typing-svg) - :zap: Dynamically generated, customizable SVG that gives the appearance of typing and deleting text
+- [Muhammad Owais Mushtaq](https://github.com/muhammadowaismushtaq)
 
 ## Articles
 - ["How To Create A GitHub Profile README"](https://www.aboutmonica.com/blog/how-to-create-a-github-profile-readme) - *Monica Powell*
